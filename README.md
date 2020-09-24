@@ -1,0 +1,2 @@
+# vera
+Variadic template shenanigans
