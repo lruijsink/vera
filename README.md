@@ -1,2 +1,2 @@
 # vera
-Variadic template shenanigans
+Insert I just think they're neat meme
