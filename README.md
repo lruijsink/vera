@@ -1,4 +1,5 @@
 # vera
 Insert I just think they're neat meme
 
-This might be useful some day. Helps stay sane when dealing with variadic template packs.
+Supposed to help stay sane when dealing with variadic template packs.
+If this becomes useful at some point, I'll add examples.
